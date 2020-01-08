@@ -1,9 +1,9 @@
 # Mario
 MarioMaker combines the merriment of playing super mario and the creativity of players to conjur a game unlike any in a while. It is also a knock-off version of Super Mario Maker.
 ### Mario Gameplay
-![MarioGamePlay]()
+![MarioGamePlay](MarioImage.png)
 ### Mario Map Editing
-![MarioMapEditing]()
+![MarioMapEditing](MarioEditing.gif)
 
 # Rules
 - Don't get hit by the bullets or flowers
